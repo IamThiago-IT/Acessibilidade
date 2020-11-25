@@ -1,4 +1,3 @@
+# Acessibilidade
 
-# [Wiki](https://github.com/IamThiago-IT/Acessibilidade/wiki)
-
-
+[Wiki](https://github.com/IamThiago-IT/Acessibilidade/wiki)
